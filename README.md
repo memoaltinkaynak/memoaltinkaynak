@@ -61,8 +61,10 @@
 
 ###
 
-![snake animation](https://github.com/memoaltinkaynak/memoaltinkaynak/blob/main/github-contribution-grid-snake2.svg)
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/memoaltinkaynak/memoaltinkaynak/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
