@@ -62,4 +62,4 @@
 ###
 
 
-![snake animation](https://github.com/memoaltinkaynak/memoaltinkaynak/blob/main/.github/workflows/main.yml/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/memoaltinkaynak/memoaltinkaynak/blob/main/.github/workflows/github-contribution-grid-snake.gif)
