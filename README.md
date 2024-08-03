@@ -61,7 +61,7 @@
 
 ###
 
-![snake animation](https://github.com/memoaltinkaynak/memoaltinkaynak/blob/main/memo.yml/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/memoaltinkaynak/memoaltinkaynak/blob/main/github-contribution-grid-snake2.svg)
           build_dir: dist
           commit_message: Update snake animations
         env:
