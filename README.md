@@ -61,10 +61,5 @@
 
 ###
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/memoaltinkaynak/memoaltinkaynak/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
+![snake animation](https://github.com/memoaltinkaynak/memoaltinkaynak/blob/output/github-contribution-grid-snake2.svg)
