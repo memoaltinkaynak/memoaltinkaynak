@@ -59,4 +59,5 @@
   </a>
 </div>
 
-#/memoaltinkaynak/memoaltinkaynak/
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/memoaltinkaynak/memoaltinkaynak/output/github-contribution-grid-snake.svg" />
+
