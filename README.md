@@ -59,5 +59,4 @@
   </a>
 </div>
 
-###
-![Snake animation](https://raw.githubusercontent.com/memoaltinkaynak/memoaltinkaynak/output/github-contribution-grid-snake-dark.svg)
+#/memoaltinkaynak/memoaltinkaynak/
