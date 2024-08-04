@@ -61,36 +61,13 @@ Hi there 👋, I'm Mehmet Altınkaynak</h1>
 
 
 
-<div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/memoaltinkaynak/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo" style="display: block;" />
-  </a>
-  <a href="mailto:m.altinkaynak14@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo" style="display: block;" />
-  </a>
-  <a href="https://www.instagram.com/memoaltinkaynak/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" style="display: block;" />
-  </a>
-  <a href="https://x.com/MemoAltinkaynak" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo" style="display: block;" />
-  </a>
-  <a href="https://medium.com/@memoaltinkaynak" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo" style="display: block;" />
-  </a>
-</div>
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=memoaltinkaynak&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
 
 
 
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/memoaltinkaynak/memoaltinkaynak/output/github-contribution-grid-snake.svg" />
+
+
+
+[![](https://visitcount.itsvg.in/api?id=memoaltinkaynak&icon=0&color=0)](https://visitcount.itsvg.in)
 
