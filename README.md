@@ -65,7 +65,7 @@ Hi there 👋, I'm Mehmet Altınkaynak</h1>
 
 
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/memoaltinkaynak/memoaltinkaynak/output/github-contribution-grid-snake.svg" />
+##<img alt="GitHub Snake" src="https://raw.githubusercontent.com/memoaltinkaynak/memoaltinkaynak/output/github-contribution-grid-snake.svg" />
 ![Snake animation](https://raw.githubusercontent.com/memoaltinkaynak/memoaltinkaynak/output/github-contribution-grid-snake-dark.svg)
 
 
