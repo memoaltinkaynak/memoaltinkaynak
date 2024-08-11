@@ -1,7 +1,6 @@
-<h1 align="center">
-Hi there 👋, I'm Mehmet Altınkaynak</h1>
+<h1 align="center"> Hi there 👋, I'm Mehmet Altınkaynak </h1>
 
-###
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
