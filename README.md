@@ -1,5 +1,5 @@
-<h1 align="center"><b>
-Hi there 👋, I'm Mehmet Altınkaynak</b></h1>
+<h1 align="center">
+Hi there 👋, I'm Mehmet Altınkaynak</h1>
 
 ###
 
