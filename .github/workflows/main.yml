@@ -1,31 +1,27 @@
-name: main
+name: Generate Snake Animation
 
 on: [push]
 
 jobs:
-  test-action:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: generate-snake-game-from-github-contribution-grid
-        id: generate-snake
-        uses: ./
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.3
         with:
-          github_user_name: platane
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          github_user_name: memoaltinkaynak  # GitHub kullanıcı adını buraya yaz
+          outputs: dist/github-contribution-grid-snake.svg
+          
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg
 
-      - name: ensure the generated file exists
-        run: |
-          ls dist
-          test -f dist/github-contribution-grid-snake.svg
-          test -f dist/github-contribution-grid-snake-dark.svg
-          test -f dist/github-contribution-grid-snake.gif
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
