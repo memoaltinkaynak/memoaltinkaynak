@@ -41,41 +41,42 @@
 
 ---
 
-### 🚀 Let's Connect
+### 🌟 Let's Connect
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/memoaltinkaynak/" target="_blank" style="display: flex; align-items: center; gap: 0.5rem; padding: 12px; background: rgba(255,255,255,0.05); border-radius: 10px; transition: all 0.3s ease;">
-    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="28" height="28">
-    <span style="color: #fff; font-family: 'Segoe UI', sans-serif;">LinkedIn</span>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:m.altinkaynak14@gmail.com" style="display: flex; align-items: center; gap: 0.5rem; padding: 12px; background: rgba(255,255,255,0.05); border-radius: 10px; transition: all 0.3s ease;">
-    <img src="https://api.iconify.design/mdi:gmail.svg?color=%23EA4335" width="28" height="28">
-    <span style="color: #fff; font-family: 'Segoe UI', sans-serif;">Gmail</span>
-  </a>
-
-  <!-- Twitter -->
-  <a href="https://x.com/MemoAltinkaynak" target="_blank" style="display: flex; align-items: center; gap: 0.5rem; padding: 12px; background: rgba(255,255,255,0.05); border-radius: 10px; transition: all 0.3s ease;">
-    <img src="https://api.iconify.design/mdi:twitter.svg?color=%23000000" width="28" height="28">
-    <span style="color: #fff; font-family: 'Segoe UI', sans-serif;">Twitter</span>
-  </a>
-
-  <!-- Medium -->
-  <a href="https://medium.com/@memoaltinkaynak" target="_blank" style="display: flex; align-items: center; gap: 0.5rem; padding: 12px; background: rgba(255,255,255,0.05); border-radius: 10px; transition: all 0.3s ease;">
-    <img src="https://api.iconify.design/mdi:medium.svg?color=%23000000" width="28" height="28">
-    <span style="color: #fff; font-family: 'Segoe UI', sans-serif;">Medium</span>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/[kullanıcıadınız]" target="_blank" style="display: flex; align-items: center; gap: 0.5rem; padding: 12px; background: rgba(255,255,255,0.05); border-radius: 10px; transition: all 0.3s ease;">
-    <img src="https://api.iconify.design/mdi:instagram.svg?color=%23E4405F" width="28" height="28">
-    <span style="color: #fff; font-family: 'Segoe UI', sans-serif;">Instagram</span>
-  </a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/memoaltinkaynak/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" />
+      </a>
+      <br /><sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:m.altinkaynak14@gmail.com">
+        <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="40" height="40" alt="Gmail" />
+      </a>
+      <br /><sub><b>Gmail</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://x.com/MemoAltinkaynak" target="_blank">
+        <img src="https://www.svgrepo.com/show/448224/twitter.svg" width="40" height="40" alt="Twitter" />
+      </a>
+      <br /><sub><b>Twitter/X</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://medium.com/@memoaltinkaynak" target="_blank">
+        <img src="https://www.svgrepo.com/show/349557/medium.svg" width="40" height="40" alt="Medium" />
+      </a>
+      <br /><sub><b>Medium</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://instagram.com/@memoaltinkaynak" target="_blank">
+        <img src="https://www.svgrepo.com/show/452229/instagram.svg" width="40" height="40" alt="Instagram" />
+      </a>
+      <br /><sub><b>Instagram</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 
