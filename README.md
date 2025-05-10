@@ -41,18 +41,18 @@
 
 ---
 
-### ⚡️ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
+### ⚡️ Connect With Me
 
 <div align="center">
 
-[![𝚝𝚠𝚒𝚝𝚝𝚎𝚛](http://i.imgur.com/wWzX9uB.png)@𝐌𝐞𝐦𝐨𝐀𝐥𝐭𝐢𝐧𝐤𝐚𝐲𝐧𝐚𝐤](https://x.com/MemoAltinkaynak)
-[![𝚐𝚖𝚊𝚒𝚕](http://i.imgur.com/9I7NRKv.png)𝐦.𝐚𝐥𝐭𝐢𝐧𝐤𝐚𝐲𝐧𝐚𝐤𝟏𝟒@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](mailto:m.altinkaynak14@gmail.com)
-  
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+[![Twitter/X](https://img.shields.io/badge/-Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://x.com/MemoAltinkaynak)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:m.altinkaynak14@gmail.com)
 
-[![𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗](http://i.imgur.com/3G7eptq.png)𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣/𝙢𝙚𝙢𝙤𝙖𝙡𝙩𝙞𝙣𝙠𝙖𝙮𝙣𝙖𝙠](https://linkedin.com/in/memoaltinkaynak)
-[![𝚖𝚎𝚍𝚒𝚞𝚖](http://i.imgur.com/0o5U3un.png)𝙈𝙚𝙙𝙞𝙪𝙢@𝙢𝙚𝙢𝙤𝙖𝙡𝙩𝙞𝙣𝙠𝙖𝙮𝙣𝙖𝙠](https://medium.com/@memoaltinkaynak)
-[![𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖](http://i.imgur.com/0KGcqXi.png)@𝙢𝙚𝙢𝙤𝙖𝙡𝙩𝙞𝙣𝙠𝙖𝙮𝙣𝙖𝙠](https://instagram.com/memoaltinkaynak)
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://linkedin.com/in/memoaltinkaynak)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=gray)](https://medium.com/@memoaltinkaynak)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=magenta)](https://instagram.com/memoaltinkaynak)
 
 </div>
 
