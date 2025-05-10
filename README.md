@@ -41,12 +41,17 @@
 
 ---
 
-### 🌈 Let's Collaborate
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat&logoColor=white&labelColor=003C5C)](https://linkedin.com/in/memoaltinkaynak)
-[![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=flat&logoColor=white&labelColor=B23121)](mailto:m.altinkaynak14@gmail.com)
-[![Twitter](https://img.shields.io/badge/-TWITTER/X-000000?style=flat&logoColor=white&labelColor=4A4A4A)](https://x.com/MemoAltinkaynak)
-[![Medium](https://img.shields.io/badge/-MEDIUM-000000?style=flat&logoColor=white&labelColor=2D2D2D)](https://medium.com/@memoaltinkaynak)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logoColor=white&labelColor=C13584)](https://instagram.com/memoaltinkaynak)
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![  LinkedIn  ](https://img.shields.io/badge/-⠀LinkedIn⠀-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=003C5C&color=0A66C2)](https://linkedin.com/in/memoaltinkaynak)
+[![  Gmail  ](https://img.shields.io/badge/-⠀Gmail⠀-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=B23121&color=EA4335)](mailto:m.altinkaynak14@gmail.com)
+[![  Twitter/X  ](https://img.shields.io/badge/-⠀Twitter/X⠀-000000?style=flat&logo=x&logoColor=white&labelColor=4A4A4A&color=000000)](https://x.com/MemoAltinkaynak)
+[![  Medium  ](https://img.shields.io/badge/-⠀Medium⠀-000000?style=flat&logo=medium&logoColor=white&labelColor=2D2D2D&color=000000)](https://medium.com/@memoaltinkaynak)
+[![  Instagram  ](https://img.shields.io/badge/-⠀Instagram⠀-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=C13584&color=E4405F)](https://instagram.com/memoaltinkaynak)
+
+</div>
 
 
 
