@@ -41,15 +41,18 @@
 
 ---
 
-### 🌐 Let's Connect
+### ⚡️ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
 
 <div align="center">
 
-[![  LinkedIn  ](https://img.shields.io/badge/-⠀LinkedIn⠀-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=003C5C&color=0A66C2)](https://linkedin.com/in/memoaltinkaynak)
-[![  Gmail  ](https://img.shields.io/badge/-⠀Gmail⠀-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=B23121&color=EA4335)](mailto:m.altinkaynak14@gmail.com)
-[![  Twitter/X  ](https://img.shields.io/badge/-⠀Twitter/X⠀-000000?style=flat&logo=x&logoColor=white&labelColor=4A4A4A&color=000000)](https://x.com/MemoAltinkaynak)
-[![  Medium  ](https://img.shields.io/badge/-⠀Medium⠀-000000?style=flat&logo=medium&logoColor=white&labelColor=2D2D2D&color=000000)](https://medium.com/@memoaltinkaynak)
-[![  Instagram  ](https://img.shields.io/badge/-⠀Instagram⠀-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=C13584&color=E4405F)](https://instagram.com/memoaltinkaynak)
+[![𝚝𝚠𝚒𝚝𝚝𝚎𝚛](http://i.imgur.com/wWzX9uB.png)@𝐌𝐞𝐦𝐨𝐀𝐥𝐭𝐢𝐧𝐤𝐚𝐲𝐧𝐚𝐤](https://x.com/MemoAltinkaynak)
+[![𝚐𝚖𝚊𝚒𝚕](http://i.imgur.com/9I7NRKv.png)𝐦.𝐚𝐥𝐭𝐢𝐧𝐤𝐚𝐲𝐧𝐚𝐤𝟏𝟒@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](mailto:m.altinkaynak14@gmail.com)
+  
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
+[![𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗](http://i.imgur.com/3G7eptq.png)𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣/𝙢𝙚𝙢𝙤𝙖𝙡𝙩𝙞𝙣𝙠𝙖𝙮𝙣𝙖𝙠](https://linkedin.com/in/memoaltinkaynak)
+[![𝚖𝚎𝚍𝚒𝚞𝚖](http://i.imgur.com/0o5U3un.png)𝙈𝙚𝙙𝙞𝙪𝙢@𝙢𝙚𝙢𝙤𝙖𝙡𝙩𝙞𝙣𝙠𝙖𝙮𝙣𝙖𝙠](https://medium.com/@memoaltinkaynak)
+[![𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖](http://i.imgur.com/0KGcqXi.png)@𝙢𝙚𝙢𝙤𝙖𝙡𝙩𝙞𝙣𝙠𝙖𝙮𝙣𝙖𝙠](https://instagram.com/memoaltinkaynak)
 
 </div>
 
