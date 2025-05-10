@@ -44,12 +44,12 @@
 ### 🌟 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/memoaltinkaynak/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:m.altinkaynak14@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=30)](https://x.com/MemoAltinkaynak)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&logoWidth=30)](https://medium.com/@memoaltinkaynak)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30)](https://instagram.com/@memoaltinkaynak)
+  
+[![LinkedIn](https://img.shields.io/badge/-Memo_Altınkaynak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/memoaltinkaynak)
+[![Gmail](https://img.shields.io/badge/-m.altinkaynak14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:m.altinkaynak14@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/-@MemoAltinkaynak-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a)](https://x.com/MemoAltinkaynak)
+[![Medium](https://img.shields.io/badge/-Memo_Altınkaynak-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1a1a)](https://medium.com/@memoaltinkaynak)
+[![Instagram](https://img.shields.io/badge/-@memoaltinkaynak-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://instagram.com/memoaltinkaynak)
 
 </div>
 
