@@ -41,15 +41,13 @@
 
 ---
 
-### 📍 Let's Connect
-**👔 Professional**  
-[[LinkedIn](https://linkedin.com/in/memoaltinkaynak)] • [[Medium](https://medium.com/@memoaltinkaynak)]  
+### 🌈 Let's Collaborate
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat&logoColor=white&labelColor=003C5C)](https://linkedin.com/in/memoaltinkaynak)
+[![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=flat&logoColor=white&labelColor=B23121)](mailto:m.altinkaynak14@gmail.com)
+[![Twitter](https://img.shields.io/badge/-TWITTER/X-000000?style=flat&logoColor=white&labelColor=4A4A4A)](https://x.com/MemoAltinkaynak)
+[![Medium](https://img.shields.io/badge/-MEDIUM-000000?style=flat&logoColor=white&labelColor=2D2D2D)](https://medium.com/@memoaltinkaynak)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logoColor=white&labelColor=C13584)](https://instagram.com/memoaltinkaynak)
 
-**💌 Direct**  
-[[Email](mailto:m.altinkaynak14@gmail.com)]  
-
-**🌍 Social**  
-[[Twitter/X](https://x.com/MemoAltinkaynak)] • [[Instagram](https://instagram.com/memoaltinkaynak)]
 
 
 
