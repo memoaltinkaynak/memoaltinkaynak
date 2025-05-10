@@ -41,22 +41,8 @@
 
 ---
 
-### 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/memoaltinkaynak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:m.altinkaynak14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/MemoAltinkaynak" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@memoaltinkaynak" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
+🌐 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/memoaltinkaynak/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:m.altinkaynak14@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://x.com/MemoAltinkaynak" target="_blank"> <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://medium.com/@memoaltinkaynak" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://www.instagram.com/memoaltinkaynak/" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 
 
 
