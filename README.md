@@ -45,14 +45,14 @@
 
 <div align="center">
 
-[![Twitter/X](https://img.shields.io/badge/-Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://x.com/MemoAltinkaynak)
-[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:m.altinkaynak14@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MemoAltinkaynak)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.altinkaynak14@gmail.com)
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://linkedin.com/in/memoaltinkaynak)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=gray)](https://medium.com/@memoaltinkaynak)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=magenta)](https://instagram.com/memoaltinkaynak)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/memoaltinkaynak)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@memoaltinkaynak)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/memoaltinkaynak)
 
 </div>
 
