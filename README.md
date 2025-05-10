@@ -41,42 +41,17 @@
 
 ---
 
-### 🌟 Let's Connect
+### 🚀 Let's Connect
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/memoaltinkaynak/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" />
-      </a>
-      <br /><sub><b>LinkedIn</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="mailto:m.altinkaynak14@gmail.com">
-        <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="40" height="40" alt="Gmail" />
-      </a>
-      <br /><sub><b>Gmail</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://x.com/MemoAltinkaynak" target="_blank">
-        <img src="https://www.svgrepo.com/show/448224/twitter.svg" width="40" height="40" alt="Twitter" />
-      </a>
-      <br /><sub><b>Twitter/X</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://medium.com/@memoaltinkaynak" target="_blank">
-        <img src="https://www.svgrepo.com/show/349557/medium.svg" width="40" height="40" alt="Medium" />
-      </a>
-      <br /><sub><b>Medium</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://instagram.com/@memoaltinkaynak" target="_blank">
-        <img src="https://www.svgrepo.com/show/452229/instagram.svg" width="40" height="40" alt="Instagram" />
-      </a>
-      <br /><sub><b>Instagram</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memoaltinkaynak/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:m.altinkaynak14@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/-Twitter/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/MemoAltinkaynak)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@memoaltinkaynak)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/[kullanıcıadınız])
+
+</div>
 
 
 
